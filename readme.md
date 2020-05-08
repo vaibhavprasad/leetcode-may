@@ -1,16 +1,16 @@
 The repo contains the problems and the respective solutions in the JS files named with the problem title. The problem description is within the files.The prombem and the dates ate mentioned below:
 
 Week 1:  
-	1st May 2020 - First Bad Version  
-	2nd May 2020 - Jewels and Stones  
-	3rd May 2020 - Ransom Note  
-	4th May 2020 - Number complement  
-	5th May 2020 - First Unique Character in a String  
-	6th May 2020 - Majority Element  
-	7th May 2020 - Cousins in Binary Tree  
+	1st May 2020 - [First Bad Version](https://github.com/vaibhavprasad/leetcode-may/blob/master/First_Bad_Version.js)  
+	2nd May 2020 - [Jewels and Stones](https://github.com/vaibhavprasad/leetcode-may/blob/master/Jewels_and_Stones.js)  
+	3rd May 2020 - [Ransom Note](https://github.com/vaibhavprasad/leetcode-may/blob/master/Ransom_Note.js)  
+	4th May 2020 - [Number complement](https://github.com/vaibhavprasad/leetcode-may/blob/master/Number_Complement.js)  
+	5th May 2020 - [First Unique Character in a String](https://github.com/vaibhavprasad/leetcode-may/blob/master/First_Unique_Character_in_a_String.js)  
+	6th May 2020 - [Majority Element](https://github.com/vaibhavprasad/leetcode-may/blob/master/Majority_Element.js)  
+	7th May 2020 - [Cousins in Binary Tree](https://github.com/vaibhavprasad/leetcode-may/blob/master/Cousins_in_Binary_Tree.js)  
 
 Week 2:  
-	8th May 2020 - Check If It Is a Straight Line  
+	8th May 2020 - [Check If It Is a Straight Line](https://github.com/vaibhavprasad/leetcode-may/blob/master/Check_If_It_Is_a_Straight_Line.js) 
 	9th May 2020 -   
         10th May 2020 -   
         11th May 2020 -   
