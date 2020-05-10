@@ -10,9 +10,9 @@ Week 1:
 	7th May 2020 - [Cousins in Binary Tree](https://github.com/vaibhavprasad/leetcode-may/blob/master/Cousins_in_Binary_Tree.js)  
 
 Week 2:  
-	8th May 2020 - [Check If It Is a Straight Line](https://github.com/vaibhavprasad/leetcode-may/blob/master/Check_If_It_Is_a_Straight_Line.js) 
-	9th May 2020 -   
-        10th May 2020 -   
+	8th May 2020 - [Check If It Is a Straight Line](https://github.com/vaibhavprasad/leetcode-may/blob/master/Check_If_It_Is_a_Straight_Line.js)  
+	9th May 2020 - [Valid Perfect Square](https://github.com/vaibhavprasad/leetcode-may/blob/master/Valid_Perfect_Square.js)  
+        10th May 2020 - [Find the Town Judge](https://github.com/vaibhavprasad/leetcode-may/blob/master/Find_the_Town_Judge.js)  
         11th May 2020 -   
         12th May 2020 -   
         13th May 2020 -   
@@ -27,7 +27,7 @@ Week 3:
         20th May 2020 -  
         21st May 2020 -  
        
-Week 4: 
+Week 4:  
 	22nd May 2020 -  
         23rd May 2020 -  
         24th May 2020 -  
