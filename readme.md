@@ -13,10 +13,10 @@ Week 2:
 	8th May 2020 - [Check If It Is a Straight Line](https://github.com/vaibhavprasad/leetcode-may/blob/master/Check_If_It_Is_a_Straight_Line.js)  
 	9th May 2020 - [Valid Perfect Square](https://github.com/vaibhavprasad/leetcode-may/blob/master/Valid_Perfect_Square.js)  
         10th May 2020 - [Find the Town Judge](https://github.com/vaibhavprasad/leetcode-may/blob/master/Find_the_Town_Judge.js)  
-        11th May 2020 - [Flood Fill] (./Flood_Fill.js)  
-        12th May 2020 - [Single Element in a Sorted Array] (./Single_Element_in_a_Sorted_Array.js)  
-        13th May 2020 - [Remove K Digits] (./Remove_K_Digits.js)  
-        14th May 2020 - [Implement Trie (Prefix Tree)] (./Implement_Trie_Prefix_Tree.js)  
+        11th May 2020 - [Flood Fill] (Flood_Fill.js)  
+        12th May 2020 - [Single Element in a Sorted Array] (Single_Element_in_a_Sorted_Array.js)  
+        13th May 2020 - [Remove K Digits] (Remove_K_Digits.js)  
+        14th May 2020 - [Implement Trie (Prefix Tree)] (Implement_Trie_Prefix_Tree.js)  
 
 Week 3:  
         15th May 2020 -  
